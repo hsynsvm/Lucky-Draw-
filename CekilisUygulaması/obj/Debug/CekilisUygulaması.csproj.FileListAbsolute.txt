@@ -1,0 +1,7 @@
+C:\Users\ramse\source\repos\CekilisUygulaması\bin\Debug\CekilisUygulaması.exe.config
+C:\Users\ramse\source\repos\CekilisUygulaması\bin\Debug\CekilisUygulaması.exe
+C:\Users\ramse\source\repos\CekilisUygulaması\bin\Debug\CekilisUygulaması.pdb
+C:\Users\ramse\source\repos\CekilisUygulaması\obj\Debug\CekilisUygulaması.csproj.AssemblyReference.cache
+C:\Users\ramse\source\repos\CekilisUygulaması\obj\Debug\CekilisUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ramse\source\repos\CekilisUygulaması\obj\Debug\CekilisUygulaması.exe
+C:\Users\ramse\source\repos\CekilisUygulaması\obj\Debug\CekilisUygulaması.pdb
